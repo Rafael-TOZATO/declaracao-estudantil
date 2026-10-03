@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner_declaracao_estudantil.png" alt="Carteira de Identificação Estudantil" width="100%">
+</p>
+
 # Declaração Estudantil e Vínculo Acadêmico - Engenharia Química
 
 <p align="center">
@@ -22,12 +26,12 @@ Este espaço centraliza a documentação institucional comprobatória de matríc
 
 ## Detalhes Acadêmicos Oficiais
 
-* **Instituição de Ensino:** Centro Universitário Unifatecie
-* **Polo:** São Paulo Paulista
-* **Curso:** Bacharelado em Engenharia Química
-* **Registro Acadêmico (R.A.):** 339366
-* **Período Letivo Atual:** 2026/1
-* **Ciclo de Formação:** Início em maio de 2024 com previsão de término no fim de 2029
-* **Validade da Identificação Estudantil:** 31/12/2026
-* **Finalidade:** Comprovação formal de status de estudante e transparência curricular
-* **Governança:** Repositório protegido contra modificações destrutivas via *Rulesets* do GitHub
+- **Instituição de Ensino:** Centro Universitário Unifatecie
+- **Polo:** São Paulo Paulista
+- **Curso:** Bacharelado em Engenharia Química
+- **Registro Acadêmico (R.A.):** 339366
+- **Período Letivo Atual:** 2026/1
+- **Ciclo de Formação:** Início em maio de 2024 com previsão de término no fim de 2029
+- **Validade da Identificação Estudantil:** 31/12/2026
+- **Finalidade:** Comprovação formal de status de estudante e transparência curricular
+- **Governança:** Repositório protegido contra modificações destrutivas via *Rulesets* do GitHub
